@@ -3,7 +3,7 @@
 - :raising_hand_man: Meu nome é Felipe Moraes
 - :man_student: Sou formado em Análise e Desenvolvimento de Sistemas pela Unicesumar de Curitiba
 - :office: Atualmente trabalho como DEV Pleno na Alias Tecnologia em Curitiba-PR, atuando com várias ferramentas como:
-    :pushpin: Frontend: React JS, PHP, Yii Framework.
+   - :pushpin: Frontend: React JS, PHP, Yii Framework.
     :pushpin: Backend: Node JS, PHP, Yii Framework.
     :pushpin: MOBILE:  React Native, Ionic.
     :pushpin: CSS: Saas, TailwindCSS, Bootstrap, Material UI.
